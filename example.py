@@ -39,9 +39,7 @@ dict[result2.hexdigest()]=str
 
 
 
-a = "1"
-b = "2"
+print(dict)
 
-c = a + b
 
-print(c)
+print("Hello")
